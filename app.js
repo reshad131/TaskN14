@@ -60,10 +60,8 @@
 // var input1 = prompt("1. Söz: ");
 // var input2 = prompt("2. Söz: ");
 
-// if (input1.endsWith(input2)) {
-//     console.log("Birinci söz ikinci daxil etdiyin simvolla bitir");
-// } else {
-//     console.log("Birinci söz ikinci daxil etdiyin simvolla bitmir");
+// var html1=input1.endsWith(input2);{
+//     console.log(html1);
 // }
 
 // Task 5
