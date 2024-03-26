@@ -49,10 +49,8 @@
 // var input1 = prompt("1. Söz: ");
 // var input2 = prompt("2. Söz: ");
 
-// if (input1.startsWith(input2)) {
-//     console.log("Birinci söz ikinci daxil etdiyin simvolla başlayır");
-// } else {
-//     console.log("Birinci söz ikinci daxil etdiyin simvolla başlamır.");
+// var html=input1.startsWith(input2);{
+//     console.log(html);
 // }
 
 
@@ -74,7 +72,7 @@
 // var input2 = prompt("Simvol:");
 
 // var index = input1.indexOf(input2);
-// console.log(index)
+// console.log("index=" + index)
 
 
 // Task 5 version 2
