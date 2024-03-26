@@ -73,20 +73,11 @@
 // console.log("index=" + index)
 
 
-// Task 5 version 2
-
-// var input1 = prompt("Söz:");
-// var input2 = prompt("Simvol:");
-// if (index !== -1) {
-//     console.log("Sözün içindəki simvolun index: " + index);
-// } else {
-//     console.log("Sözün içindəki simvolun index-i yoxdur");
-// }
 
 
 // Task 6
 
-// var input = prompt("Lütfen bir söz giriniz:");
+// var input = prompt("söz")
 
 // var boyukHerf = input === input.toUpperCase();
 
